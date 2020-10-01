@@ -2,7 +2,7 @@ import pygame as pg,sys
 from pygame.locals import *
 import time
 
-#initialize global variables
+#hope it helps
 XO = 'x'
 winner = None
 draw = False
